@@ -22,7 +22,7 @@ function App() {
 
     fetchTasks(
       {
-        url: "https://react-http-d5d4d-default-rtdb.firebaseio.com/tasks.json",
+        url: "https://chatsat-3a5cc.firebaseio.com/tasks.json",
       },
       transformTasks
     );
